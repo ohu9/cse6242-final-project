@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@nivo/bar": "^0.99.0",
+    "@nivo/core": "^0.99.0",
+    "d3": "^7.9.0",
+    "recharts": "^3.4.1"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.3"
+  }
+}
